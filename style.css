@@ -1,0 +1,75 @@
+.div1{
+background:url('image/aleksandr-popov-bhOm5RGqtcA-unsplash.jpg') no-repeat;
+/*background-size: cover;*/
+background-repeat: repeat;
+;
+}
+.presentation1{
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 25px ;
+}
+
+.divP{
+    display: flex;
+    justify-content: space-between;
+}
+
+.divPT{
+    display: flex;
+    justify-content: space-between;
+}
+.divV{
+    display: flex;
+    justify-content: space-between;
+}
+.presentation{
+
+    text-align: left;
+    font-style: italic;
+justify-content: flex-start;
+width: 400px;
+height: 500px;
+margin-top: 150px;
+font-size: 16px;
+}
+.photo1{
+    width: 400px;
+    height: 400px;
+}
+
+
+
+
+
+.projet {
+    text-align: left;
+    font-style: italic;
+justify-content: flex-start;
+width: 400px;
+height: 500px;
+margin-top: 150px;
+font-size: 16px;
+}
+
+.photo2{
+    width: 400px;
+    height: 400px;
+}
+.Vision{
+    text-align: left;
+    font-style: italic;
+justify-content: flex-start;
+width: 400px;
+height: 400px;
+margin-top: 150px;
+font-size: 16px;   
+}
+.photo3{
+    width: 400px;
+    height: 400px;
+}
+
+.nav{
+
+}
